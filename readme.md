@@ -20,4 +20,5 @@ Before using this API, make sure you have the following:
 1. Get all the services and their corresponding images
 2. Get all subservices and their corresponding tables under a service 
 3. Get all questions for a subservice if they have that
-4. Push the order to the database
+4. Get all available providers for the subservice in the area
+5. Push the order to the database
